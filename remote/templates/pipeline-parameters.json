@@ -1,0 +1,15 @@
+[
+  {
+
+    "ParameterKey": "RepositoryName",
+    "ParameterValue": "remote"
+  },
+  {
+    "ParameterKey": "RepositoryOwner",
+    "ParameterValue": "anthderr"
+  },
+  {
+    "ParameterKey": "GithubAccessToken",
+    "ParameterValue": "005678a0d455597c036aa0409bbdcd0fafd709a9"
+  }
+]
